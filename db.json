@@ -224,6 +224,51 @@
         "Experience": " 2-5 years",
         "Salary": "Not Specified",
         "Description": "Amazon Payment Experience Platform team at Amazon India Development Center, Bangalore is looking for a Developer to design and build the next generation of Payments platform and product from the ground up..."
+    },
+    {
+        "id": 26,
+        "Role": "Software Development",
+        "CompanyName": "Mesho",
+        "Location": "Bengaluru / Bangalore , India",
+        "Experience": " 0-1 years",
+        "Salary": "Not Specified",
+        "Description": "mesho Payment Experience Platform team at mesho India Development Center, Bangalore is looking for a Developer to design and build the next generation of Payments platform and product from the ground up..."
+    },
+    {
+        "id": 27,
+        "Role": "Fresher",
+        "CompanyName": "Harita Techserv Private Limited",
+        "Location": "UP / UttraPradesh , India",
+        "Experience": " 0-1 years",
+        "Salary": "Not Specified",
+        "Description": "Harita Techserv Private Limited Experience Platform team at Amazon India Development Center, UttrahPradesh is looking for a Developer to design and build the next generation of  platform and product from the ground up..."
+    },
+    {
+        "id": 28,
+        "Role": "Medical Coder",
+        "CompanyName": "Standard Chartered",
+        "Location": " Bengaluru / Bangalore ,India",
+        "Experience": " 0-1 years",
+        "Salary": "1-2 lpa",
+        "Description": "We're an international bank, nimble enough to act, big enough for impact. For more than 160 years, we've worked to make a positive difference for our clients, communities, and each other...."
+    },
+    {
+        "id": 29,
+        "Role": "Relationship Manager,Priority Banking",
+        "CompanyName": "Standard Chartered",
+        "Location": " Bengaluru / Bangalore ,India",
+        "Experience": "Not Specified",
+        "Salary": "2-5 lpa",
+        "Description": "We're an international bank, nimble enough to act, big enough for impact. For more than 160 years, we've worked to make a positive difference for our clients, communities, and each other...."
+    },
+    {
+        "id": 30,
+        "Role": "Relationship Manager,Priority Banking",
+        "CompanyName": "Standard Chartered",
+        "Location": " Bengaluru / Bangalore ,India",
+        "Experience": "10-15 years",
+        "Salary": " 10-20 lpa",
+        "Description": "We're an international bank, nimble enough to act, big enough for impact. For more than 160 years, we've worked to make a positive difference for our clients, communities, and each other...."
     }
 ]
 }
