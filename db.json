@@ -1,0 +1,229 @@
+{
+    "JobData": [
+    {
+        "id": 1,
+        "Role": "Brand Development Associate, Launchpad",
+        "CompanyName": "Amazon",
+        "Location": "Bengaluru / Bangalore , India",
+        "Experience": " 1-4 years",
+        "Salary": "Not Specified",
+        "Description": "Emerging Brands Program team's mission is to build the most effective platform for motivated entrepreneurs to establish & scale consumer direc...."
+    },
+    {
+        "id": 2,
+        "Role": "Manager, Support Engineering , Partner Trust",
+        "CompanyName": "Tcs",
+        "Location": "Surat / Gujraat , India",
+        "Experience": " 3-6 years",
+        "Salary": "Not Specified",
+        "Description": "Amazon is investing heavily in building a world class advertising business and we are responsible for defining and delivering a collection of self-service performance advertising products that drive discovery and sales...."
+    },
+    {
+        "id": 3,
+        "Role": "Software Development Engineer II",
+        "CompanyName": "Google",
+        "Location": "Parel / Mumbai , India",
+        "Experience": " 2-5 years",
+        "Salary": "Not Specified",
+        "Description": "Google Payment Experience Platform team at Amazon India Development Center, Bangalore is looking for a Developer to design and build the next generation of Payments platform and product from the ground up..."
+    },
+    {
+        "id": 4,
+        "Role": "Business Intelligence Engineer, IN Advertising",
+        "CompanyName": "Mesho",
+        "Location": "lucknow / UP",
+        "Experience": " 4-7 years",
+        "Salary": " Not Specified",
+        "Description": "Mesho Advertising exists at the intersection of marketing and e-commerce and offers advertisers a rich array of innovative advertising solutions across Amazon owned properties as well as third party properties Amazon operates....."
+    },
+    {
+        "id": 5,
+        "Role": "Risk Control Analyst",
+        "CompanyName": "paytm",
+        "Location": "Anna Malai / Chennai , India",
+        "Experience": " 1-4 years",
+        "Salary": "Not Specified",
+        "Description": "Suspicious Activity Monitoring (SAM) enables Amazon businesses to mitigate the regulatory and legal risk of money laundering and terrorist financing...."
+    },
+    {
+        "id": 6,
+        "Role": "Software Development Engineer, Alexa Smart Properties",
+        "CompanyName": "Amazon",
+        "Location": "Malad / Mumbai , India",
+        "Experience": "Not Specified",
+        "Salary": " Not Specified",
+        "Description": "Are you looking for an opportunity to build a highly available, large scale, enterprise-wide software solution Does it excite you to find patterns and build generic, composable....."
+    },
+    {
+        "id": 7,
+        "Role": "Network Specialist",
+        "CompanyName": "Standard Chartered",
+        "Location": " Bengaluru / Bangalore ,India",
+        "Experience": "10-15 Years",
+        "Salary": " Not Specified",
+        "Description": "We are a leading international bank focused on helping people and companies prosper across Asia, Africa and the Middle East......"
+    },
+    {
+        "id": 8,
+        "Role": "Relationship Manager,Priority Banking",
+        "CompanyName": "ICICI",
+        "Location": " Bengaluru / Bangalore ,India",
+        "Experience": "Not Specified",
+        "Salary": " Not Specified",
+        "Description": "We're an international bank, nimble enough to act, big enough for impact. For more than 160 years, we've worked to make a positive difference for our clients, communities, and each other...."
+    },
+    {
+        "id": 9,
+        "Role": "Vice President, Client Coverage Performance Reporting",
+        "CompanyName": "HDFC Chartered",
+        "Location": "Bengaluru / Bangalore ,India",
+        "Experience": "Not Specified",
+        "Salary": "Not Specified",
+        "Description": "We're an international bank, nimble enough to act, big enough for impact. For more than 160 years, we've worked to make a positive difference for our clients, communities,......"
+    },
+    {
+        "id": 10,
+        "Role": "Design Engineer- Creo , Plastics",
+        "CompanyName": "Harita Techserv Private Limited",
+        "Location": " Bengaluru / Bangalore",
+        "Experience": "3-8 Years",
+        "Salary": "Not Specified",
+        "Description": "ands on experience in Creo CAD Software with experience in various modules Top down Design Approach/ Part / Assembly/ Drafting/AdvanceSurfacing/ Assembly work instructions...."
+    },
+    {
+        "id": 11,
+        "Role": "Design Engineer - Solidworks - Bangalore",
+        "CompanyName": "Harita Techserv Private Limited",
+        "Location": " Bengaluru / Bangalore",
+        "Experience": "4-9 Years",
+        "Salary": "Not Specified",
+        "Description": "Knowledge of GD&T and drafting standards. Knowledge of sheet metals, castings, forgings....."
+    },
+    {
+        "id": 12,
+        "Role": "Cnc Maintenance Engineer - Bangalore",
+        "CompanyName": "Harita Techserv Private Limited",
+        "Location": " Bengaluru / Bangalore",
+        "Experience": "2-6 Years",
+        "Salary": " Not Specified",
+        "Description": "Maintenance of CNC & Grinding machines Adherence to schedule maintenance........"
+    },
+    {
+        "id": 13,
+        "Role": "Brand Development Associate, Launchpad",
+        "CompanyName": "Amazon",
+        "Location": "Bengaluru / Bangalore , India",
+        "Experience": " 1-4 years",
+        "Salary": "Not Specified",
+        "Description": "Emerging Brands Program team's mission is to build the most effective platform for motivated entrepreneurs to establish & scale consumer direc...."
+    },
+    {
+        "id": 14,
+        "Role": "Manager, Support Engineering , Partner Trust",
+        "CompanyName": "Amazon",
+        "Location": "Bengaluru / Bangalore , India",
+        "Experience": " 3-6 years",
+        "Salary": "Not Specified",
+        "Description": "Amazon is investing heavily in building a world class advertising business and we are responsible for defining and delivering a collection of self-service performance advertising products that drive discovery and sales...."
+    },
+    {
+        "id": 15,
+        "Role": "Software Development Engineer II",
+        "CompanyName": "Amazon",
+        "Location": "Bengaluru / Bangalore , India",
+        "Experience": " 2-5 years",
+        "Salary": "Not Specified",
+        "Description": "Amazon Payment Experience Platform team at Amazon India Development Center, Bangalore is looking for a Developer to design and build the next generation of Payments platform and product from the ground up..."
+    },
+    {
+        "id": 16,
+        "Role": "Business Intelligence Engineer, IN Advertising",
+        "CompanyName": "Amazon",
+        "Location": "Bengaluru / Bangalore",
+        "Experience": " 4-7 years",
+        "Salary": " Not Specified",
+        "Description": "Amazon Advertising exists at the intersection of marketing and e-commerce and offers advertisers a rich array of innovative advertising solutions across Amazon owned properties as well as third party properties Amazon operates....."
+    },
+    {
+        "id": 17,
+        "Role": "Risk Control Analyst",
+        "CompanyName": "Amazon",
+        "Location": "Bengaluru / Bangalore , India",
+        "Experience": " 1-4 years",
+        "Salary": "Not Specified",
+        "Description": "Suspicious Activity Monitoring (SAM) enables Amazon businesses to mitigate the regulatory and legal risk of money laundering and terrorist financing...."
+    },
+    {
+        "id": 18,
+        "Role": "Software Development Engineer, Alexa Smart Properties",
+        "CompanyName": "Amazon",
+        "Location": "Bengaluru / Bangalore , India",
+        "Experience": "Not Specified",
+        "Salary": " Not Specified",
+        "Description": "Are you looking for an opportunity to build a highly available, large scale, enterprise-wide software solution Does it excite you to find patterns and build generic, composable....."
+    },
+    {
+        "id": 19,
+        "Role": "Network Specialist",
+        "CompanyName": "Standard Chartered",
+        "Location": " Bengaluru / Bangalore ,India",
+        "Experience": "10-15 Years",
+        "Salary": " Not Specified",
+        "Description": "We are a leading international bank focused on helping people and companies prosper across Asia, Africa and the Middle East......"
+    },
+    {
+        "id": 20,
+        "Role": "Relationship Manager,Priority Banking",
+        "CompanyName": "Standard Chartered",
+        "Location": " Bengaluru / Bangalore ,India",
+        "Experience": "Not Specified",
+        "Salary": " Not Specified",
+        "Description": "We're an international bank, nimble enough to act, big enough for impact. For more than 160 years, we've worked to make a positive difference for our clients, communities, and each other...."
+    },
+    {
+        "id": 21,
+        "Role": "Vice President, Client Coverage Performance Reporting",
+        "CompanyName": "Standard Chartered",
+        "Location": "Bengaluru / Bangalore ,India",
+        "Experience": "Not Specified",
+        "Salary": "Not Specified",
+        "Description": "We're an international bank, nimble enough to act, big enough for impact. For more than 160 years, we've worked to make a positive difference for our clients, communities,......"
+    },
+    {
+        "id": 22,
+        "Role": "Design Engineer- Creo , Plastics",
+        "CompanyName": "Harita Techserv Private Limited",
+        "Location": " Bengaluru / Bangalore",
+        "Experience": "3-8 Years",
+        "Salary": "Not Specified",
+        "Description": "ands on experience in Creo CAD Software with experience in various modules Top down Design Approach/ Part / Assembly/ Drafting/AdvanceSurfacing/ Assembly work instructions...."
+    },
+    {
+        "id": 23,
+        "Role": "Design Engineer - Solidworks - Bangalore",
+        "CompanyName": "Harita Techserv Private Limited",
+        "Location": " Bengaluru / Bangalore",
+        "Experience": "4-9 Years",
+        "Salary": "Not Specified",
+        "Description": "Knowledge of GD&T and drafting standards. Knowledge of sheet metals, castings, forgings....."
+    },
+    {
+        "id": 24,
+        "Role": "Cnc Maintenance Engineer - Bangalore",
+        "CompanyName": "Harita Techserv Private Limited",
+        "Location": " Bengaluru / Bangalore",
+        "Experience": "2-6 Years",
+        "Salary": " Not Specified",
+        "Description": "Maintenance of CNC & Grinding machines Adherence to schedule maintenance........"
+    },
+    {
+        "id": 25,
+        "Role": "Software Development Engineer II",
+        "CompanyName": "Amazon",
+        "Location": "Bengaluru / Bangalore , India",
+        "Experience": " 2-5 years",
+        "Salary": "Not Specified",
+        "Description": "Amazon Payment Experience Platform team at Amazon India Development Center, Bangalore is looking for a Developer to design and build the next generation of Payments platform and product from the ground up..."
+    }
+]
+}
